@@ -1,0 +1,25 @@
+.rightbarhome{
+    .birthdayContainer{
+        display: flex;
+        align-items: center;
+
+        .birthdayImg{
+            width: 100px;
+            height: 100px;
+            margin-right: 10px;
+        }
+
+        .birthdayText{
+            font-weight: 300;
+            font-size: 15px;
+            cursor: pointer;
+        }
+    }
+
+
+
+    .rightbarTitle{
+        display: flex;
+        margin-bottom: 20px;
+    }
+}
